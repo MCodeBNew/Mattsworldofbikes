@@ -1,2 +1,57 @@
-# Mattsworldofbikes
-One stop shop for bikes
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>🚴 World of Bikes 🚴</title></td>
+    </head>
+    <body>
+        <center>
+            <h1>🚴 World of Bikes 🚴</h1>
+            <table>
+                <tr>
+                    <td><img src="images/bikeshop.jpg" title="Our new bike shop" width="300"></td>
+                    <td>
+                        <center><p><strong>One stop shop for knowing which bike to buy</strong></p></center>
+                        <ul>
+                            <li>Reviews of bikes on the market at all price ranges</li>
+                            <li>Top tips on how you can be a better cyclist</li>
+                            <li>The best routes shared by World of Bikes community members</li>
+                            <li>Online store for all your cycling needs</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+            <hr size="3" color="blue">
+        </center>
+        <p>This is the only website you will ever need when choosing a new bike. Whether you are looking for a road or mountain bike, we have the knowledge and expertise to find the right bike for you.</p>
+        <hr size="3" color="blue">
+        <p>Have a look at the Bikes I have previously owned <a href="bikes.html">here</a></p>
+        <hr size="3" color="blue">
+        <h3>My top 3 favourite places to cycle</h3>
+        <h5>You can find a full list <a href="cycle routes.html">here</a></h5>
+        <table border="1" width="25%">
+            <thead>
+                <tr style="background-color: darkorange;">
+                    <th>Country</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="background-color:lightsalmon">
+                    <td>Scotland</td>
+                    <td>Loch Lomund</td>
+                </tr>
+                <tr style="background-color:lightsalmon">
+                    <td>Wales</td>
+                    <td>Coastal path</td>
+                </tr>
+                <tr style="background-color:lightsalmon">
+                    <td>Isle of Wight</td>
+                    <td>Full island loop</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr size="3" color="blue">
+        <p>If you would like to contact us regarding any of our bikes in stock then feel from to get in <a href="contact details.html">touch with us</a></p>
+    </body>
+</html>
